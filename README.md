@@ -1,6 +1,5 @@
 # Awdeo (Flutter + BLoC + Firebase)
  - AWDEO is a noncommercial audio streamer, designed to listen to music without ads or subscriptions. Made for people who just want to press play and listen.
-**Flutter/BLoC** and **Firebase**.
  - This project introduced me to the world of modern app development, allowing me to gain hands-on experience with Flutter, BLoC architecture, and Firebase integration.
 
 ## Signup/Login Demo
