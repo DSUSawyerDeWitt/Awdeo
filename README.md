@@ -3,7 +3,7 @@
  - This project introduced me to the world of modern app development, allowing me to gain hands-on experience with Flutter, BLoC architecture, and Firebase integration.
 
 ## Signup/Login Demo
-
+![Login Demo](media/AWDEO%20Login%20GIF.gif)
 ## Features
  - Play, Pause, and listen to audio.
  - Logging and Sign in with Firebase
