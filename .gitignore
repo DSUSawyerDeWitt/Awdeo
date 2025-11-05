@@ -28,6 +28,3 @@ yarn-error.log*
 /.env.*
 
 #Firebase
-android/app/google-services.json
-lib/firebase_options.dart
-.flutter-plugins-dependencies
