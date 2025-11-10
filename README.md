@@ -6,7 +6,7 @@
 ![Login Demo](media/AWDEO%20Login%20GIF.gif)
 ## Features
  - Play, Pause, and listen to audio.
- - Logging and Sign in with Firebase
+ - Login and Sign in with Firebase
  - Change App Theme, Light & Dark mode
  - Favorite/UnFavorite Songs
  - Profile Page with User info
@@ -17,7 +17,10 @@
 3. **Add firebase files**
  - update android/app/google-services.json & lib/firebase_options.dart
  - change them to use your firebase details
-4. **Run the App**
- - Run main without debugging / preferably with a device plugged in.
+4. **Setup Firebase**
+ - Create your own firebase
+ - add cover art, mp3 audio, and song details
+5. **Run the App**
+ - Run main without debugging / preferably with a device plugged in
 ## Copyright-Free
 All images, artwork, and audio used in this project are copyright-free.
