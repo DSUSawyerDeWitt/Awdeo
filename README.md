@@ -19,7 +19,7 @@
  - change them to use your firebase details
 4. **Setup Firebase**
  - Create your own firebase
- - add cover art, mp3 audio, and song details
+ - Add cover art, mp3 audio, and song details, ect.
 5. **Run the App**
  - Run main without debugging / preferably with a device plugged in
 ## Copyright-Free
